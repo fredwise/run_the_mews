@@ -1,0 +1,387 @@
+mews_name,mews_clean,lon,lat,type,loctype,address,north,south,east,west
+lennox-gardens-mews,"Lennox Gardens Mews, London",-0.1641726,51.4952361,route,geometric_center,"lennox gardens mews, chelsea, london sw3, uk",51.4967182802915,51.4940203197085,-0.162565819708498,-0.165263780291502
+wythburn-place,"Wythburn Place, London",-0.1605699,51.5157736,route,geometric_center,"wythburn pl, marylebone, london w1h, uk",51.5170680302915,51.5143700697085,-0.159478869708498,-0.162176830291502
+wyndham-mews,"Wyndham Mews, London",-0.1605873,51.519069,route,geometric_center,"wyndham mews, marylebone, london w1h, uk",51.5204360802915,51.5177381197085,-0.159118719708498,-0.161816680291502
+woodstock-mews,"Woodstock Mews, London",-0.1498302,51.5199368,route,geometric_center,"woodstock mews, marylebone, london, uk",51.5212716302915,51.5185736697085,-0.148479469708498,-0.151177430291502
+woodfall-street,"Woodfall Street, London",-0.1622473,51.4887248,route,geometric_center,"woodfall st, chelsea, london sw3, uk",51.4900909302915,51.4873929697085,-0.160885169708498,-0.163583130291502
+woods-mews,"Woods Mews, London",-0.1560318,51.511767,route,geometric_center,"wood's mews, mayfair, london, uk",51.5130909302915,51.5103929697085,-0.154881619708498,-0.157579580291502
+wolsey-mews,"Wolsey Mews, London",-0.1405248,51.5487999,route,geometric_center,"wolsey mews, kentish town, london nw5, uk",51.5501403302915,51.5474423697085,-0.139145219708498,-0.141843180291502
+wimpole-mews,"Wimpole Mews, London",-0.148271,51.5200436,route,geometric_center,"wimpole mews, marylebone, london w1g, uk",51.5211914802915,51.5184935197085,-0.146859069708498,-0.149557030291502
+wilton-row,"Wilton Row, London",-0.1545882,51.5013638,route,geometric_center,"wilton row, belgravia, london sw1x, uk",51.5024177302915,51.4997197697085,-0.153329769708498,-0.156027730291502
+wilton-mews-westminster,"Wilton Mews Westminster, London",-0.1501329,51.4986381,route,geometric_center,"wilton mews, belgravia, london sw1x, uk",51.4999597302915,51.4972617697085,-0.148744519708498,-0.151442480291502
+wilby-mews,"Wilby Mews, London",-0.2028907,51.5093023,route,geometric_center,"wilby mews, notting hill, london w11, uk",51.5106277302915,51.5079297697085,-0.201609319708498,-0.204307280291502
+wigmore-place,"Wigmore Place, London",-0.1469298,51.5170813,route,geometric_center,"wigmore pl, marylebone, london, uk",51.5185184802915,51.5158205197085,-0.145603869708498,-0.148301830291502
+whidborne-street,"Whidborne Street, London",-0.1233802,51.5283134,route,geometric_center,"whidborne st, london wc1h, uk",51.5295167302915,51.5268187697085,-0.121940369708498,-0.124638330291502
+weymouth-mews,"Weymouth Mews, London",-0.1463791,51.5201438,route,geometric_center,"weymouth mews, marylebone, london w1g, uk",51.5215226802915,51.5188247197085,-0.144981519708498,-0.147679480291502
+wetherby-mews,"Wetherby Mews, London",-0.1902259,51.4899802,route,geometric_center,"wetherby mews, earl's court, london sw5, uk",51.4914447802915,51.4887468197085,-0.188669519708498,-0.191367480291502
+western-mews,"Western Mews, London",-0.201263,51.5238025,route,geometric_center,"western mews, maida hill, london w9, uk",51.5250139302915,51.5223159697085,-0.200103219708498,-0.202801180291502
+westbourne-grove-mews,"Westbourne Grove Mews, London",-0.1976168,51.5145214,route,geometric_center,"westbourne grove mews, notting hill, london w11, uk",51.5158829302915,51.5131849697085,-0.196424619708498,-0.199122580291502
+west-hampstead-mews,"West Hampstead Mews, London",-0.1904735,51.5458563,route,geometric_center,"w hampstead mews, west hampstead, london nw6, uk",51.5474611302915,51.5447631697085,-0.189118319708498,-0.191816280291502
+west-eaton-place-mews,"West Eaton Place Mews, London",-0.1560513,51.4949004,route,geometric_center,"w eaton place mews, belgravia, london sw1x, uk",51.4961648802915,51.4934669197085,-0.154569119708498,-0.157267080291502
+welbeck-way,"Welbeck Way, London",-0.1484487,51.5171335,route,geometric_center,"welbeck way, marylebone, london, uk",51.5185622802915,51.5158643197085,-0.147097469708498,-0.149795430291502
+wavel-mews,"Wavel Mews, London",-0.1903937,51.5415366,route,geometric_center,"wavel mews, london nw6, uk",51.5430639802915,51.5403660197085,-0.189088919708498,-0.191786880291502
+warwick-square-mews,"Warwick Square Mews, London",-0.1420188,51.4911793,route,geometric_center,"warwick square mews, pimlico, london sw1v, uk",51.4926212302915,51.4899232697085,-0.140623769708498,-0.143321730291502
+warren-mews,"Warren Mews, London",-0.1417239,51.5233503,route,geometric_center,"warren mews, fitzrovia, london w1w, uk",51.5246904302915,51.5219924697085,-0.140349569708498,-0.143047530291502
+walpole-mews,"Walpole Mews, London",-0.1749045,51.5366834,route,geometric_center,"walpole mews, st john's wood, london nw8, uk",51.5380593802915,51.5353614197085,-0.173542519708498,-0.176240480291502
+victoria-mews-brent,"Victoria Mews Brent, London",-0.1976177,51.5392522,route,geometric_center,"victoria mews, north maida vale, london nw6, uk",51.5404647302915,51.5377667697085,-0.196402869708498,-0.199100830291502
+victoria-grove-mews,"Victoria Grove Mews, London",-0.1924485,51.510159,route,geometric_center,"victoria grove mews, bayswater, london, uk",51.5116406802915,51.5089427197085,-0.191194669708498,-0.193892630291502
+vernon-yard,"Vernon Yard, London",-0.2039912,51.5138466,route,geometric_center,"vernon yard, notting hill, london w11, uk",51.5152763302915,51.5125783697085,-0.202471569708498,-0.205169530291502
+upbrook-mews,"Upbrook Mews, London",-0.1798193,51.5141955,route,geometric_center,"upbrook mews, bayswater, london w2, uk",51.5155621302915,51.5128641697085,-0.178598269708498,-0.181296230291502
+turnchapel-mews,"Turnchapel Mews, London",-0.1497294,51.4659994,route,geometric_center,"turnchapel mews, clapham town, london sw8 3jl, uk",51.4672874802915,51.4645895197085,-0.148712319708498,-0.151410280291502
+tottenham-mews,"Tottenham Mews, London",-0.1370184,51.5200902,route,geometric_center,"tottenham mews, fitzrovia, london w1w, uk",51.5214924302915,51.5187944697085,-0.135760119708498,-0.138458080291502
+thurloe-place-mews,"Thurloe Place Mews, London",-0.1741627,51.4951592,route,geometric_center,"thurloe place mews, south kensington, london sw7, uk",51.4964988802915,51.4938009197085,-0.172662519708498,-0.175360480291502
+three-kings-yard,"Three Kings Yard, London",-0.1480596,51.5121487,route,geometric_center,"three kings' yard, mayfair, london w1k, uk",51.5133883802915,51.5106904197085,-0.147231469708498,-0.149929430291502
+the-mews,"The Mews, London",-0.143629,51.4987317,establishment,geometric_center,"buckingham palace rd, westminster, london sw1w 0qh, uk",51.5000806802915,51.4973827197085,-0.142280019708498,-0.144977980291502
+the-cobbled-yard,"The Cobbled Yard, London",-0.0790908,51.5625218,establishment,rooftop,"1 bouverie rd, stoke newington, london n16 0ah, uk",51.5638707802915,51.5611728197085,-0.077741819708498,-0.080439780291502
+taunton-mews,"Taunton Mews, London",-0.1616289,51.523408,route,geometric_center,"taunton mews, marylebone, london nw1, uk",51.5247672802915,51.5220693197085,-0.160327619708498,-0.163025580291502
+swan-yard,"Swan Yard, London",-0.1039526,51.5455823,route,geometric_center,"swan yard, london, uk",51.5469119802915,51.5442140197085,-0.102614269708498,-0.105312230291502
+sussex-mews-west,"Sussex Mews West, London",-0.1744151,51.5127978,route,geometric_center,"sussex mews w, tyburnia, london w2, uk",51.5140817802915,51.5113838197085,-0.172967019708498,-0.175664980291502
+sumner-place-mews,"Sumner Place Mews, London",-0.1745809,51.4928945,route,geometric_center,"sumner place mews, south kensington, london sw7, uk",51.4940957802915,51.4913978197085,-0.173542719708498,-0.176240680291502
+studio-place,"Studio Place, London",-0.1571158,51.5019304,route,geometric_center,"studio pl, belgravia, london sw1x, uk",51.5032552802915,51.5005573197085,-0.156020219708498,-0.158718180291502
+stonnells-road,"Stonnells Road, London",-0.1626721,51.4553776,route,geometric_center,"stonnell's rd, london sw11, uk",51.4564389302915,51.4537409697085,-0.161102369708498,-0.163800330291502
+steeles-mews-north,"Steeles Mews North, London",-0.1589096,51.5465754,route,geometric_center,"steeles mews n, london nw3, uk",51.5478369302915,51.5451389697085,-0.157331769708498,-0.160029730291502
+stanhope-mews-west,"Stanhope Mews West, London",-0.1819372,51.4942724,route,geometric_center,"stanhope mews w, south kensington, london sw7, uk",51.4956040802915,51.4929061197085,-0.180583769708498,-0.183281730291502
+stanhope-mews-south,"Stanhope Mews South, London",-0.180992,51.4931961,route,geometric_center,"stanhope mews s, south kensington, london sw7, uk",51.4945380802915,51.4918401197085,-0.179658769708498,-0.182356730291502
+st-stephens-mews,"St Stephens Mews, London",-0.1958538,51.5187856,route,geometric_center,"st stephen's mews, london w2, uk",51.5201773802915,51.5174794197085,-0.194384919708498,-0.197082880291502
+st-petersburgh-mews,"St Petersburgh Mews, London",-0.1901377,51.5116912,route,geometric_center,"st petersburgh mews, bayswater, london w2, uk",51.5130460802915,51.5103481197085,-0.188792119708498,-0.191490080291502
+st-peters-street-mews,"St Peters Street Mews, London",-0.0993553,51.5350799,route,geometric_center,"st peter's st, islington, london n1, uk",51.5366501,51.5332853,-0.0972095,-0.102092
+st-lukes-mews,"St Lukes Mews, London",-0.2033689,51.5177784,route,geometric_center,"st lukes mews, notting hill, london w11, uk",51.5190555802915,51.5163576197085,-0.2016856,-0.2050191
+st-georges-mews,"St Georges Mews, London",-0.1578636,51.5407439,route,geometric_center,"st george's mews, camden town, london nw3, uk",51.5421679302915,51.5394699697085,-0.156712619708498,-0.159410580291502
+st-georges-square-mews,"St Georges Square Mews, London",-0.1334871,51.4869055,route,geometric_center,"st george's square mews, pimlico, london sw1v, uk",51.4883208802915,51.4856229197085,-0.132082719708498,-0.134780680291502
+st-anselms-place,"St Anselms Place, London",-0.1494107,51.5131966,route,geometric_center,"st anselm's pl, mayfair, london w1k, uk",51.5145784802915,51.5118805197085,-0.147800469708498,-0.150498430291502
+spear-mews,"Spear Mews, London",-0.1947511,51.4927182,route,geometric_center,"spear mews, earl's court, london sw5, uk",51.4941056802915,51.4914077197085,-0.193351719708498,-0.196049680291502
+southwick-mews,"Southwick Mews, London",-0.1711316,51.5166632,route,geometric_center,"southwick mews, paddington, london w2, uk",51.5179568302915,51.5152588697085,-0.169875519708498,-0.172573480291502
+south-crescent-mews,"South Crescent Mews, London",-0.1320062,51.5193751,route,geometric_center,"south cres, bloomsbury, london w1t, uk",51.5208615302915,51.5181635697085,-0.130772069708498,-0.133470030291502
+smallbrook-mews,"Smallbrook Mews, London",,,,,,,,,
+sherlock-mews,"Sherlock Mews, London",-0.1561658,51.520586,route,geometric_center,"sherlock mews, marylebone, london w1u, uk",51.5220229802915,51.5193250197085,-0.154863069708498,-0.157561030291502
+shafto-mews,"Shafto Mews, London",-0.1605981,51.4963801,route,geometric_center,"shafto mews, chelsea, london sw1x, uk",51.4976872802915,51.4949893197085,-0.159642619708498,-0.162340580291502
+seymour-mews,"Seymour Mews, London",-0.1535099,51.5160925,route,geometric_center,"seymour mews, marylebone, london, uk",51.5173855302915,51.5146875697085,-0.152124619708498,-0.154822580291502
+scampston-mews,"Scampston Mews, London",-0.2166153,51.5166742,route,geometric_center,"scampston mews, london w10, uk",51.5180462802915,51.5153483197085,-0.215216919708498,-0.217914880291502
+ryders-terrace,"Ryders Terrace, London",-0.1825325,51.5352106,route,geometric_center,"ryder's terrace, st john's wood, london nw8, uk",51.5365458302915,51.5338478697085,-0.181196019708498,-0.183893980291502
+rutland-street,"Rutland Street, London",-0.1679343,51.4986658,route,geometric_center,"rutland st, knightsbridge, london, uk",51.5000183302915,51.4973203697085,-0.166390169708498,-0.169088130291502
+rutland-mews-west,"Rutland Mews West, London",-0.1683405,51.4987044,route,geometric_center,"rutland mews s, knightsbridge, london sw7, uk",51.5000582302915,51.4973602697085,-0.166974019708498,-0.169671980291502
+rutland-mews-south,"Rutland Mews South, London",-0.1683405,51.4987044,route,geometric_center,"rutland mews s, knightsbridge, london sw7, uk",51.5000582302915,51.4973602697085,-0.166974019708498,-0.169671980291502
+rutland-mews,"Rutland Mews, London",-0.1683405,51.4987044,route,geometric_center,"rutland mews s, knightsbridge, london sw7, uk",51.5000582302915,51.4973602697085,-0.166974019708498,-0.169671980291502
+rutland-gardens-mews,"Rutland Gardens Mews, London",-0.1664338,51.5009457,route,geometric_center,"rutland gardens mews, knightsbridge, london sw7 1bt, uk",51.5022983802915,51.4996004197085,-0.165241019708498,-0.167938980291502
+ruston-mews,"Ruston Mews, London",-0.2123746,51.5166233,route,geometric_center,"ruston mews, notting hill, london w10, uk",51.5179720802915,51.5152741197085,-0.210935619708498,-0.213633580291502
+russell-gardens-mews,"Russell Gardens Mews, London",-0.2125783,51.500373,route,geometric_center,"russell gardens mews, kensington, london w14, uk",51.5017111802915,51.4990132197085,-0.211203869708498,-0.213901830291502
+russell-court,"Russell Court, London",-0.1261188,51.5236467,premise,rooftop,"russell court, woburn pl, bloomsbury, london wc1h 0nl, uk",51.5248947802915,51.5221968197085,-0.124595519708498,-0.127293480291502
+royal-parade-mews,"Royal Parade Mews, London",0.0076466,51.4672979,route,geometric_center,"royal parade mews, blackheath, london se3, uk",51.4686344802915,51.4659365197085,0.00899998029150203,0.00630201970849797
+roland-way,"Roland Way, London",-0.1809713,51.489751,route,geometric_center,"roland way, south kensington, london, uk",51.4910901802915,51.4883922197085,-0.179634769708498,-0.182332730291502
+rodmarton-street,"Rodmarton Street, London",-0.1574383,51.5185949,route,geometric_center,"rodmarton st, marylebone, london w1h, uk",51.5199062802915,51.5172083197085,-0.156046619708498,-0.158744580291502
+rochester-place,"Rochester Place, London",-0.139453,51.5443709,route,geometric_center,"rochester pl, london nw1, uk",51.5456839802915,51.5429860197085,-0.1368774,-0.1411209
+roberts-mews,"Roberts Mews, London",-0.1538129,51.497417,route,geometric_center,"roberts mews, belgravia, london sw1x, uk",51.4986974302915,51.4959994697085,-0.152561919708498,-0.155259880291502
+rheidol-mews,"Rheidol Mews, London",-0.097796,51.534826,route,geometric_center,"rheidol mews, islington, london n1, uk",51.5362566302915,51.5335586697085,-0.096440769708498,-0.099138730291502
+rex-place,"Rex Place, London",-0.1528943,51.5087345,route,geometric_center,"rex pl, mayfair, london w1k, uk",51.5100977302915,51.5073997697085,-0.151533419708498,-0.154231380291502
+reston-place,"Reston Place, London",,,,,,,,,
+relton-mews,"Relton Mews, London",-0.1664979,51.4991581,route,geometric_center,"relton mews, knightsbridge, london sw7, uk",51.5004305802915,51.4977326197085,-0.165218219708498,-0.167916180291502
+reeves-mews,"Reeves Mews, London",-0.1526571,51.5099874,route,geometric_center,"reeves mews, mayfair, london w1k, uk",51.5112472302915,51.5085492697085,-0.151677369708498,-0.154375330291502
+reece-mews,"Reece Mews, London",-0.1771644,51.4934771,route,geometric_center,"reece mews, south kensington, london sw7, uk",51.4949133802915,51.4922154197085,-0.175845769708498,-0.178543730291502
+redfield-mews,"Redfield Mews, London",-0.19369,51.4941983,route,geometric_center,"redfield mews, earl's court, london sw5 0rh, uk",51.4955545302915,51.4928565697085,-0.192344819708498,-0.195042780291502
+red-lion-yard,"Red Lion Yard, London",-0.1494669,51.5074287,route,geometric_center,"red lion yard, mayfair, london w1k, uk",51.5087467802915,51.5060488197085,-0.148303619708498,-0.151001580291502
+rainsford-street,"Rainsford Street, London",-0.1693009,51.5176718,route,geometric_center,"rainsford st, paddington, london w2, uk",51.5188935802915,51.5161956197085,-0.168179669708498,-0.170877630291502
+railway-mews,"Railway Mews, London",0.4143296,51.5748604,establishment,geometric_center,"railway approach, laindon, basildon ss15 6jt, uk",51.5762093802915,51.5735114197085,0.415678580291502,0.412980619708498
+radnor-mews,"Radnor Mews, London",-0.1715145,51.5150849,route,geometric_center,"radnor mews, tyburnia, london w2, uk",51.5163134302915,51.5136154697085,-0.170394619708498,-0.173092580291502
+radley-mews,"Radley Mews, London",-0.1932543,51.4964733,route,geometric_center,"radley mews, kensington, london w8, uk",51.4977614302915,51.4950634697085,-0.192089219708498,-0.194787180291502
+rabbit-row,"Rabbit Row, London",-0.1946044,51.508627,route,geometric_center,"rabbit row, kensington, london, uk",51.5100156302915,51.5073176697085,-0.193232869708498,-0.195930830291502
+queensdale-walk,"Queensdale Walk, London",-0.2117365,51.5069536,route,geometric_center,"queensdale walk, notting hill, london w11, uk",51.5081998802915,51.5055019197085,-0.210286469708498,-0.212984430291502
+queensborough-studios,"Queensborough Studios, London",-0.1852564,51.5122958,route,geometric_center,"queensborough studios, bayswater, london w2, uk",51.5136442302915,51.5109462697085,-0.183903519708498,-0.186601480291502
+queensborough-mews,"Queensborough Mews, London",-0.1853965,51.5126809,route,geometric_center,"queensborough mews, bayswater, london w2, uk",51.5138494302915,51.5111514697085,-0.183991119708498,-0.186689080291502
+queensberry-mews-west,"Queensberry Mews West, London",-0.1780876,51.4945615,route,geometric_center,"queensberry mews w, south kensington, london sw7, uk",51.4958767802915,51.4931788197085,-0.176792919708498,-0.179490880291502
+queens-grove-studios,"Queens Grove Studios, London",-0.1753781,51.5372412,premise,rooftop,"queens grove studios, queen's grove, london nw8 6ep, uk",51.5385761302915,51.5358781697085,-0.174060169708498,-0.176758130291502
+queens-mews,"Queens Mews, London",-0.189013,51.513402,route,geometric_center,"queen's mews, bayswater, london w2, uk",51.5147279802915,51.5120300197085,-0.187745069708498,-0.190443030291502
+queens-gate-place-mews,"Queens Gate Place Mews, London",-0.1801877,51.4959877,route,geometric_center,"queen's gate place mews, south kensington, london sw7, uk",51.4974542302915,51.4947562697085,-0.178941169708498,-0.181639130291502
+queens-gate-mews,"Queens Gate Mews, London",-0.1821252,51.4990919,route,geometric_center,"queen's gate mews, south kensington, london, uk",51.5011055302915,51.4984075697085,-0.1805832,-0.1837122
+quebec-mews,"Quebec Mews, London",-0.1587416,51.5152113,route,geometric_center,"quebec mews, marylebone, london w1h, uk",51.5165780802915,51.5138801197085,-0.157223819708498,-0.159921780291502
+priory-mews-lambeth,"Priory Mews Lambeth, London",-0.1290911,51.4736865,route,geometric_center,"priory grove, london sw8, uk",51.4749518,51.4722417,-0.127433969708498,-0.130131930291502
+princess-mews,"Princess Mews, London",-0.1718673,51.5494983,route,geometric_center,"princess mews, belsize park, london nw3, uk",51.5508948802915,51.5481969197085,-0.170451719708498,-0.173149680291502
+princes-place,"Princes Place, London",-0.2113078,51.5080535,route,geometric_center,"princes pl, notting hill, london w11, uk",51.5090637302915,51.5063657697085,-0.209651069708498,-0.212349030291502
+princes-mews,"Princes Mews, London",-0.1927358,51.5125253,route,geometric_center,"prince's mews, bayswater, london w2, uk",51.5138995802915,51.5112016197085,-0.191075069708498,-0.193773030291502
+princes-gate-mews,"Princes Gate Mews, London",-0.1725219,51.4981852,route,geometric_center,"princes gate mews, knightsbridge, london sw7, uk",51.4996413802915,51.4969434197085,-0.1712021,-0.1741454
+prices-mews,"Prices Mews, London",-0.1156057,51.537223,route,geometric_center,"prices mews, islington, london n1 0sg, uk",51.5385819802915,51.5358840197085,-0.114217419708498,-0.116915380291502
+pratt-mews,"Pratt Mews, London",-0.1403593,51.5371888,route,geometric_center,"pratt mews, london nw1, uk",51.5385164802915,51.5358185197085,-0.138971019708498,-0.141668980291502
+praed-mews,"Praed Mews, London",,,,,,,,,
+powis-mews,"Powis Mews, London",,,,,,,,,
+pottery-lane,"Pottery Lane, London",-0.2099069,51.508857,route,geometric_center,"pottery ln, notting hill, london w11, uk",51.5102561302915,51.5075581697085,-0.2085597,-0.2113836
+portsea-mews,"Portsea Mews, London",-0.1643507,51.5151907,route,geometric_center,"portsea mews, st george's fields, london w2, uk",51.5164572302915,51.5137592697085,-0.163153119708498,-0.165851080291502
+portobello-mews,"Portobello Mews, London",-0.1983499,51.5112557,route,geometric_center,"portobello mews, notting hill, london w11, uk",51.5126268302915,51.5099288697085,-0.197092419708498,-0.199790380291502
+portland-mews,"Portland Mews, London",-0.1359311,51.5142225,street_address,rooftop,"11 portland mews, west end, london w1f 8jl, uk",51.5155714802915,51.5128735197085,-0.134582119708498,-0.137280080291502
+poplar-mews,"Poplar Mews, London",-0.2261215,51.5061696,route,geometric_center,"poplar mews, shepherd's bush, london w12 7js, uk",51.5071874302915,51.5044894697085,-0.224819219708498,-0.227517180291502
+pont-street-mews,"Pont Street Mews, London",-0.1626618,51.4973132,route,geometric_center,"pont street mews, knightsbridge, london sw3, uk",51.4989166302915,51.4962186697085,-0.161256869708498,-0.163954830291502
+pindock-mews,"Pindock Mews, London",-0.186532,51.5247033,route,geometric_center,"pindock mews, london w9, uk",51.5259834802915,51.5232855197085,-0.185153869708498,-0.187851830291502
+phillimore-walk,"Phillimore Walk, London",-0.1957522,51.5006398,route,geometric_center,"phillimore walk, kensington, london w8, uk",51.5019035802915,51.4992056197085,-0.1934734,-0.1989799
+petersham-place,"Petersham Place, London",-0.1820206,51.4981858,route,geometric_center,"petersham pl, south kensington, london, uk",51.4995442802915,51.4968463197085,-0.180701119708498,-0.183399080291502
+petersham-mews,"Petersham Mews, London",-0.1822741,51.4973268,route,geometric_center,"petersham mews, south kensington, london, uk",51.4987633302915,51.4960653697085,-0.181041569708498,-0.183739530291502
+petersham-lane,"Petersham Lane, London",-0.1832317,51.4981013,route,geometric_center,"petersham ln, south kensington, london w8, uk",51.4994919302915,51.4967939697085,-0.181873369708498,-0.184571330291502
+pennant-mews,"Pennant Mews, London",-0.1909234,51.4954092,route,geometric_center,"pennant mews, kensington, london sw5, uk",51.4966571302915,51.4939591697085,-0.189622219708498,-0.192320180291502
+pembroke-mews-kensington,"Pembroke Mews Kensington, London",-0.1982303,51.4974077,route,geometric_center,"pembroke mews, kensington, london w8, uk",51.4986567802915,51.4959588197085,-0.196879419708498,-0.199577380291502
+pembridge-mews,"Pembridge Mews, London",-0.1981009,51.5124108,route,geometric_center,"pembridge mews, notting hill, london w11, uk",51.5138891802915,51.5111912197085,-0.196929469708498,-0.199627430291502
+pavilion-road,"Pavilion Road, London",-0.1596712,51.4967755,route,geometric_center,"pavilion rd, london, uk",51.5007732,51.4928927,-0.1581237,-0.1611091
+park-square-mews,"Park Square Mews, London",-0.1492928,51.5241992,route,geometric_center,"park square mews, marylebone, london nw1, uk",51.5254617302915,51.5227637697085,-0.147616919708498,-0.150314880291502
+park-crescent-mews-west,"Park Crescent Mews West, London",-0.1480565,51.5227166,route,geometric_center,"park crescent mews w, marylebone, london w1g, uk",51.5240661302915,51.5213681697085,-0.146828769708498,-0.149526730291502
+park-crescent-mews-east,"Park Crescent Mews East, London",-0.1447774,51.5229874,route,geometric_center,"park crescent mews e, london w1b, uk",51.5243170802915,51.5216191197085,-0.143378869708498,-0.146076830291502
+park-avenue-mews,"Park Avenue Mews, London",-0.1514118,51.4169228,route,geometric_center,"park ave mews, london cr4 2aj, uk",51.4182458802915,51.4155479197085,-0.150109669708498,-0.152807630291502
+parade-mews,"Parade Mews, London",-0.1068059,51.4395479,route,geometric_center,"parade mews, streatham hill, london sw2, uk",51.4409129802915,51.4382150197085,-0.105449219708498,-0.108147180291502
+palace-gardens-mews,"Palace Gardens Mews, London",-0.1928728,51.5082123,route,geometric_center,"palace garden mews, kensington, london w8, uk",51.5097118302915,51.5070138697085,-0.191166119708498,-0.193864080291502
+ovington-mews,"Ovington Mews, London",-0.1658378,51.4977421,route,geometric_center,"ovington mews, chelsea, london, uk",51.4990354802915,51.4963375197085,-0.164520119708498,-0.167218080291502
+osten-mews,"Osten Mews, London",-0.187419,51.4962366,route,geometric_center,"osten mews, kensington, london, uk",51.4976483302915,51.4949503697085,-0.186067519708498,-0.188765480291502
+ossington-close,"Ossington Close, London",-0.19308,51.5115032,route,geometric_center,"ossington cl, bayswater, london w2, uk",51.5128310802915,51.5101331197085,-0.191620269708498,-0.194318230291502
+ossian-mews,"Ossian Mews, London",-0.1131811,51.5738681,premise,geometric_center,"ossian mews, ossian rd, stroud green, london n4 4dt, uk",51.5752663302915,51.5725683697085,-0.111763619708498,-0.114461580291502
+orme-court-mews,"Orme Court Mews, London",-0.1886772,51.5108552,route,geometric_center,"orme court mews, bayswater, london w2, uk",51.5122322802915,51.5095343197085,-0.187314719708498,-0.190012680291502
+onslow-mews-west,"Onslow Mews West, London",-0.1769025,51.4917009,route,geometric_center,"onslow mews w, south kensington, london sw7, uk",51.4930654302915,51.4903674697085,-0.175869819708498,-0.178567780291502
+oldbury-place,"Oldbury Place, London",-0.152217,51.5217428,route,geometric_center,"oldbury pl, marylebone, london, uk",51.5233214302915,51.5206234697085,-0.150917069708498,-0.153615030291502
+old-barrack-yard,"Old Barrack Yard, London",-0.1552033,51.5020235,route,geometric_center,"old barrack yard, belgravia, london sw1x, uk",51.5034531302915,51.5007551697085,-0.153840169708498,-0.156538130291502
+northwick-close,"Northwick Close, London",-0.1756293,51.5257903,route,geometric_center,"northwick cl, london, uk",51.5271492802915,51.5244513197085,-0.174617819708498,-0.177315780291502
+norland-place,"Norland Place, London",-0.2116062,51.5059146,establishment,rooftop,"holland park bmw, 162-166 holland park ave, notting hill, london w11 4uh, uk",51.5072635802915,51.5045656197085,-0.210257219708498,-0.212955180291502
+norfolk-square-mews,"Norfolk Square Mews, London",-0.1731084,51.5155255,route,geometric_center,"norfolk square mews, paddington, london w2, uk",51.5166805302915,51.5139825697085,-0.172098119708498,-0.174796080291502
+newman-passage,"Newman Passage, London",-0.1350971,51.517803,route,geometric_center,"newman passage, fitzrovia, london w1t, uk",51.5191537302915,51.5164557697085,-0.134013619708498,-0.136711580291502
+napier-place,"Napier Place, London",-0.2066126,51.497994,route,geometric_center,"napier pl, kensington, london w14, uk",51.4990938302915,51.4963958697085,-0.205159619708498,-0.207857580291502
+murray-mews,"Murray Mews, London",-0.131145,51.5442145,route,geometric_center,"murray mews, london nw1, uk",51.5456524802915,51.5429545197085,-0.129646519708498,-0.132344480291502
+mount-row,"Mount Row, London",-0.1486295,51.5107146,route,geometric_center,"mount row, mayfair, london w1k, uk",51.5120742802915,51.5093763197085,-0.147188369708498,-0.149886330291502
+morton-mews,"Morton Mews, London",-0.190692,51.4934285,route,geometric_center,"morton mews, earl's court, london sw5, uk",51.4946051802915,51.4919072197085,-0.189143619708498,-0.191841580291502
+moreton-terrace-mews-south,"Moreton Terrace Mews South, London",-0.137717,51.4885517,route,geometric_center,"moreton terrace mews s, pimlico, london sw1v 2nu, uk",51.4899371802915,51.4872392197085,-0.136385819708498,-0.139083780291502
+moray-mews,"Moray Mews, London",-0.1132126,51.5651786,route,geometric_center,"moray mews, finsbury park, london n4, uk",51.5665449802915,51.5638470197085,-0.111842919708498,-0.114540880291502
+montrose-place,"Montrose Place, London",-0.1516882,51.5001366,route,geometric_center,"montrose pl, belgravia, london sw1x, uk",51.5015998802915,51.4989019197085,-0.150522119708498,-0.153220080291502
+montpelier-walk,"Montpelier Walk, London",-0.1675081,51.4994235,route,geometric_center,"montpelier walk, knightsbridge, london, uk",51.5008190302915,51.4981210697085,-0.166001919708498,-0.168699880291502
+montagu-mews-west,"Montagu Mews West, London",-0.1596179,51.5170705,route,geometric_center,"montagu mews w, marylebone, london w1h, uk",51.5185686802915,51.5158707197085,-0.158360669708498,-0.161058630291502
+montagu-mews-south,"Montagu Mews South, London",-0.1593835,51.5165654,route,geometric_center,"montagu mews s, marylebone, london w1h, uk",51.5177678802915,51.5150699197085,-0.158194619708498,-0.160892580291502
+montagu-mews-north,"Montagu Mews North, London",-0.1593883,51.5193828,route,geometric_center,"montagu mews n, marylebone, london w1h, uk",51.5207455802915,51.5180476197085,-0.158074419708498,-0.160772380291502
+minera-mews,"Minera Mews, London",-0.1533862,51.4934664,route,geometric_center,"minera mews, belgravia, london sw1w, uk",51.4948646302915,51.4921666697085,-0.152162019708498,-0.154859980291502
+millman-mews,"Millman Mews, London",-0.1184031,51.5233227,route,geometric_center,"millman mews, holborn, london wc1n, uk",51.5246342802915,51.5219363197085,-0.116842119708498,-0.119540080291502
+middle-lane-mews,"Middle Lane Mews, London",-0.1232476,51.5808867,route,geometric_center,"middle lane mews, crouch end, london n8, uk",51.5821945802915,51.5794966197085,-0.122127119708498,-0.124825080291502
+mcleods-mews,"Mcleods Mews, London",-0.1864454,51.4955833,route,geometric_center,"mcleod's mews, kensington, london, uk",51.4971155302915,51.4944175697085,-0.185052169708498,-0.187750130291502
+mccrone-mews,"Mccrone Mews, London",-0.1726576,51.5486268,route,geometric_center,"mccrone mews, belsize park, london nw3 5bg, uk",51.5499640802915,51.5472661197085,-0.171349619708498,-0.174047580291502
+marylebone-mews,"Marylebone Mews, London",-0.1491214,51.5186257,route,geometric_center,"marylebone mews, marylebone, london, uk",51.5198759802915,51.5171780197085,-0.147725669708498,-0.150423630291502
+market-mews,"Market Mews, London",-0.1478928,51.5063266,route,geometric_center,"market mews, mayfair, london, uk",51.5074752302915,51.5047772697085,-0.147292319708498,-0.149990280291502
+manson-mews,"Manson Mews, London",-0.1789916,51.4927414,route,geometric_center,"manson mews, south kensington, london sw7, uk",51.4942123802915,51.4915144197085,-0.177623419708498,-0.180321380291502
+mansfield-mews,"Mansfield Mews, London",-0.1462821,51.518831,route,geometric_center,"mansfield mews, marylebone, london w1g, uk",51.5203102802915,51.5176123197085,-0.145014919708498,-0.147712880291502
+manor-mews,"Manor Mews, London",-0.1921614,51.5363779,route,geometric_center,"manor mews, north maida vale, london nw6, uk",51.5377011802915,51.5350032197085,-0.190870819708498,-0.193568780291502
+malvern-mews,"Malvern Mews, London",-0.1976841,51.5291105,route,geometric_center,"malvern mews, london w9, uk",51.5304830802915,51.5277851197085,-0.196183519708498,-0.198881480291502
+lynn-mews,"Lynn Mews, London",0.0076087,51.5606158,route,geometric_center,"lynn mews, leytonstone, london e11, uk",51.5619964802915,51.5592985197085,0.00896823029150203,0.00627026970849797
+lyall-mews-west,"Lyall Mews West, London",-0.1549608,51.4962693,route,geometric_center,"lyall mews w, belgravia, london sw1x, uk",51.4974384302915,51.4947404697085,-0.153881319708498,-0.156579280291502
+lyall-mews,"Lyall Mews, London",-0.1546894,51.4967492,route,geometric_center,"lyall mews, belgravia, london sw1x, uk",51.4980244802915,51.4953265197085,-0.153218819708498,-0.155916780291502
+lucerne-mews,"Lucerne Mews, London",-0.1942853,51.5082068,route,geometric_center,"lucerne mews, kensington, london w8, uk",51.5095438802915,51.5068459197085,-0.192930619708498,-0.195628580291502
+lowndes-close,"Lowndes Close, London",-0.1533447,51.4973617,route,geometric_center,"lowndes cl, belgravia, london sw1x, uk",51.4986006302915,51.4959026697085,-0.151986619708498,-0.154684580291502
+lonsdale-road,"Lonsdale Road, London",-0.2017247,51.5148236,route,geometric_center,"lonsdale rd, notting hill, london w11, uk",51.5160193302915,51.5133213697085,-0.1992729,-0.2042386
+london-mews,"London Mews, London",-0.1735698,51.5163634,route,geometric_center,"london mews, paddington, london w2, uk",51.5174187302915,51.5147207697085,-0.172769219708498,-0.175467180291502
+logan-mews,"Logan Mews, London",-0.1978645,51.4944793,route,geometric_center,"logan mews, kensington, london, uk",51.4958860302915,51.4931880697085,-0.196605269708498,-0.199303230291502
+linden-mews-kensington,"Linden Mews Kensington, London",-0.1953276,51.5099166,route,geometric_center,"linden mews, bayswater, london, uk",51.5112667302915,51.5085687697085,-0.194069219708498,-0.196767180291502
+linden-mews-islington,"Linden Mews Islington, London",-0.1953276,51.5099166,route,geometric_center,"linden mews, bayswater, london, uk",51.5112667302915,51.5085687697085,-0.194069219708498,-0.196767180291502
+lexham-mews,"Lexham Mews, London",-0.1948605,51.4961009,route,geometric_center,"lexham mews, kensington, london w8, uk",51.4972257302915,51.4945277697085,-0.193420119708498,-0.196118080291502
+leinster-mews,"Leinster Mews, London",-0.1827066,51.5116123,route,geometric_center,"leinster mews, bayswater, london w2, uk",51.5130947302915,51.5103967697085,-0.180789269708498,-0.183487230291502
+lees-place,"Lees Place, London",-0.1541739,51.5122934,route,geometric_center,"lees pl, mayfair, london w1k, uk",51.5134633302915,51.5107653697085,-0.152758369708498,-0.155456330291502
+ledbury-mews-west,"Ledbury Mews West, London",-0.1994081,51.5137875,route,geometric_center,"ledbury mews w, notting hill, london w11, uk",51.5151914802915,51.5124935197085,-0.198138869708498,-0.200836830291502
+ledbury-mews-north,"Ledbury Mews North, London",-0.1983185,51.514221,route,geometric_center,"ledbury mews n, notting hill, london w11, uk",51.5155732302915,51.5128752697085,-0.197113019708498,-0.199810980291502
+laverton-mews,"Laverton Mews, London",-0.1893785,51.4922135,route,geometric_center,"laverton mews, earl's court, london sw5, uk",51.4935602802915,51.4908623197085,-0.187993119708498,-0.190691080291502
+lancaster-stables,"Lancaster Stables, London",-0.1645541,51.5465158,route,geometric_center,"lancaster stables, belsize park, london nw3, uk",51.5477876302915,51.5450896697085,-0.163275469708498,-0.165973430291502
+lancaster-mews,"Lancaster Mews, London",-0.1795753,51.512583,route,geometric_center,"lancaster mews, bayswater, london w2, uk",51.5138381302915,51.5111401697085,-0.177851919708498,-0.180549880291502
+lambton-place,"Lambton Place, London",-0.1999867,51.5141235,route,geometric_center,"lambton pl, notting hill, london w11, uk",51.5154878802915,51.5127899197085,-0.198699019708498,-0.201396980291502
+ladbroke-walk,"Ladbroke Walk, London",-0.2022227,51.5087496,route,geometric_center,"ladbroke walk, notting hill, london w11, uk",51.5100231302915,51.5073251697085,-0.200915369708498,-0.203613330291502
+kynance-mews,"Kynance Mews, London",-0.1849884,51.4973848,route,geometric_center,"kynance mews, kensington, london sw7, uk",51.4988006302915,51.4961026697085,-0.1837003,-0.1871961
+kinnerton-street,"Kinnerton Street, London",-0.1567018,51.500722,route,geometric_center,"kinnerton st, belgravia, london sw1x, uk",51.5021268802915,51.4994289197085,-0.155532869708498,-0.158230830291502
+kinnerton-place-south,"Kinnerton Place South, London",-0.1567018,51.500722,route,geometric_center,"kinnerton st, belgravia, london sw1x, uk",51.5021268802915,51.4994289197085,-0.155532869708498,-0.158230830291502
+kingsley-mews,"Kingsley Mews, London",-0.1882387,51.4975258,route,geometric_center,"kingsley mews, kensington, london, uk",51.4988790302915,51.4961810697085,-0.186465719708498,-0.189163680291502
+kings-terrace,"Kings Terrace, London",-0.1392098,51.5360571,route,geometric_center,"king's terrace, london nw1, uk",51.5374678302915,51.5347698697085,-0.137873719708498,-0.140571680291502
+kings-mews,"Kings Mews, London",-0.1141954,51.5217668,route,geometric_center,"king's mews, holborn, london, uk",51.5231082802915,51.5204103197085,-0.112815419708498,-0.115513380291502
+kersley-mews,"Kersley Mews, London",-0.1645526,51.4732099,route,geometric_center,"kersley mews, battersea, london sw11, uk",51.4746141302915,51.4719161697085,-0.162953619708498,-0.165651580291502
+kensington-park-mews,"Kensington Park Mews, London",-0.2060561,51.5152567,route,geometric_center,"kensington park mews, notting hill, london w11, uk",51.5165868302915,51.5138888697085,-0.204735619708498,-0.207433580291502
+kensington-court-mews,"Kensington Court Mews, London",-0.1878251,51.5012484,route,geometric_center,"kensington ct, kensington, london w8, uk",51.5026573302915,51.4999593697085,-0.186333319708498,-0.189031280291502
+kenrick-place,"Kenrick Place, London",-0.1559241,51.5200795,route,geometric_center,"kenrick pl, marylebone, london w1u, uk",51.5213355302915,51.5186375697085,-0.154537469708498,-0.157235430291502
+kendrick-mews,"Kendrick Mews, London",-0.1767651,51.4934827,route,geometric_center,"kendrick mews, south kensington, london sw7, uk",51.4947907802915,51.4920928197085,-0.175408669708498,-0.178106630291502
+junction-mews,"Junction Mews, London",-0.1683314,51.51826,route,geometric_center,"junction mews, paddington, london w2, uk",51.5193565802915,51.5166586197085,-0.167469369708498,-0.170167330291502
+johns-mews,"Johns Mews, London",-0.1161941,51.522119,route,geometric_center,"john's mews, holborn, london wc1n, uk",51.5234451802915,51.5207472197085,-0.114838019708498,-0.117535980291502
+jeffreys-place,"Jeffreys Place, London",-0.1401747,51.5428818,route,geometric_center,"jeffrey's pl, london nw1, uk",51.5442034802915,51.5415055197085,-0.139090819708498,-0.141788780291502
+jay-mews,"Jay Mews, London",-0.1792319,51.5007132,route,geometric_center,"jay mews, kensington, london sw7, uk",51.5020536802915,51.4993557197085,-0.177870569708498,-0.180568530291502
+jacobs-well-mews,"Jacobs Well Mews, London",-0.1521562,51.5176326,route,geometric_center,"jacob's well mews, marylebone, london w1u, uk",51.5189482802915,51.5162503197085,-0.150663519708498,-0.153361480291502
+inverness-mews,"Inverness Mews, London",-0.1871762,51.5125597,route,geometric_center,"inverness mews, bayswater, london w2, uk",51.5138157802915,51.5111178197085,-0.185830619708498,-0.188528580291502
+hyde-park-gardens-mews,"Hyde Park Gardens Mews, London",-0.1710072,51.5131966,route,geometric_center,"hyde park gardens mews, tyburnia, london w2, uk",51.5145903802915,51.5118924197085,-0.1689049,-0.1723993
+huntsworth-mews,"Huntsworth Mews, London",-0.1613286,51.5242567,route,geometric_center,"huntsworth mews, marylebone, london nw1, uk",51.5256916302915,51.5229936697085,-0.159793219708498,-0.162491180291502
+hugh-mews,"Hugh Mews, London",-0.1446256,51.4926708,route,geometric_center,"hugh mews, pimlico, london, uk",51.4939313802915,51.4912334197085,-0.143451719708498,-0.146149680291502
+horbury-mews,"Horbury Mews, London",-0.200612,51.5101775,route,geometric_center,"horbury mews, notting hill, london w11, uk",51.5112890302915,51.5085910697085,-0.199083569708498,-0.201781530291502
+holly-mews,"Holly Mews, London",-0.1799537,51.4881323,route,geometric_center,"holly mews, south kensington, london sw10, uk",51.4894901302915,51.4867921697085,-0.178682569708498,-0.181380530291502
+holland-park-mews,"Holland Park Mews, London",-0.2063867,51.5058083,route,geometric_center,"holland park mews, kensington, london w11, uk",51.5071416802915,51.5044437197085,-0.2039933,-0.2085898
+holbein-mews,"Holbein Mews, London",-0.1563871,51.4905762,route,geometric_center,"holbein mews, london, uk",51.4918641802915,51.4891662197085,-0.154913219708498,-0.157611180291502
+hesper-mews,"Hesper Mews, London",-0.1904144,51.4915032,route,geometric_center,"hesper mews, earl's court, london sw5, uk",51.4928000302915,51.4901020697085,-0.188562919708498,-0.191260880291502
+heron-mews,"Heron Mews, London",0.070295,51.5607842,route,geometric_center,"heron mews, ilford ig1, uk",51.5621810802915,51.5594831197085,0.071736930291502,0.069038969708498
+hermit-place,"Hermit Place, London",-0.1910895,51.5386871,route,geometric_center,"hermit pl, north maida vale, london nw6, uk",51.5399414802915,51.5372435197085,-0.189988369708498,-0.192686330291502
+henniker-mews,"Henniker Mews, London",-0.1788513,51.4864997,route,geometric_center,"henniker mews, chelsea, london sw10, uk",51.4876858302915,51.4849878697085,-0.177545469708498,-0.180243430291502
+headfort-place,"Headfort Place, London",-0.1512147,51.5008378,route,geometric_center,"headfort pl, belgravia, london sw1x, uk",51.5021141302915,51.4994161697085,-0.149652119708498,-0.152350080291502
+hazlitt-mews,"Hazlitt Mews, London",-0.2126916,51.4978926,route,geometric_center,"hazlitt mews, hammersmith, london w14 0jz, uk",51.4992067802915,51.4965088197085,-0.211149669708498,-0.213847630291502
+hays-mews,"Hays Mews, London",-0.1476385,51.5083878,route,geometric_center,"hay's mews, mayfair, london, uk",51.5096931802915,51.5069952197085,-0.1460792,-0.1494756
+hatherley-mews,"Hatherley Mews, London",-0.02074,51.5863724,route,geometric_center,"hatherley mews, walthamstow, london e17, uk",51.5878070802915,51.5851091197085,-0.019097819708498,-0.021795780291502
+harriet-walk,"Harriet Walk, London",-0.1592735,51.4998913,route,geometric_center,"harriet walk, belgravia, london, uk",51.5014668802915,51.4987689197085,-0.157550869708498,-0.160248830291502
+harley-place,"Harley Place, London",-0.1476285,51.5186083,route,geometric_center,"harley pl, marylebone, london w1g, uk",51.5200011802915,51.5173032197085,-0.146014769708498,-0.148712730291502
+harefield-mews,"Harefield Mews, London",-0.0354635,51.4642064,route,geometric_center,"harefield mews, brockley, london se4, uk",51.4655927802915,51.4628948197085,-0.034110519708498,-0.036808480291502
+hansard-mews,"Hansard Mews, London",-0.2154879,51.5029755,route,geometric_center,"hansard mews, london, uk",51.5044158302915,51.5017178697085,-0.214120919708498,-0.216818880291502
+hanover-terrace-mews,"Hanover Terrace Mews, London",-0.1630505,51.5272473,route,geometric_center,"hanover terrace mews, marylebone, london, uk",51.5287287302915,51.5260307697085,-0.161479069708498,-0.164177030291502
+hamilton-close,"Hamilton Close, London",-0.1762985,51.5274854,route,geometric_center,"hamilton cl, london nw8, uk",51.5288741802915,51.5261762197085,-0.174911219708498,-0.177609180291502
+hallam-mews,"Hallam Mews, London",-0.1440455,51.5208351,route,geometric_center,"hallam mews, marylebone, london, uk",51.5221001302915,51.5194021697085,-0.142727269708498,-0.145425230291502
+halkin-mews,"Halkin Mews, London",-0.156084,51.4993928,route,geometric_center,"halkin mews, belgravia, london sw1x, uk",51.5007214802915,51.4980235197085,-0.154836119708498,-0.157534080291502
+grove-mews,"Grove Mews, London",-0.2269705,51.4988217,route,geometric_center,"grove mews, hammersmith, london w6, uk",51.5001855802915,51.4974876197085,-0.225556169708498,-0.228254130291502
+grosvenor-gardens-mews-south,"Grosvenor Gardens Mews South, London",-0.1465731,51.4964483,route,geometric_center,"grosvenor gardens mews s, belgravia, london sw1w, uk",51.4977062302915,51.4950082697085,-0.145195719708498,-0.147893680291502
+grosvenor-gardens-mews-north,"Grosvenor Gardens Mews North, London",-0.1470787,51.4970478,route,geometric_center,"grosvenor gardens mews n, belgravia, london sw1w, uk",51.4983213302915,51.4956233697085,-0.145727169708498,-0.148425130291502
+grosvenor-gardens-mews-east,"Grosvenor Gardens Mews East, London",-0.1459502,51.4978432,route,geometric_center,"grosvenor gardens mews e, westminster, london sw1w, uk",51.4992362302915,51.4965382697085,-0.144560769708498,-0.147258730291502
+grosvenor-crescent-mews,"Grosvenor Crescent Mews, London",-0.15394,51.5020578,route,geometric_center,"grosvenor crescent mews, belgravia, london sw1x, uk",51.5031991802915,51.5005012197085,-0.152690169708498,-0.155388130291502
+grosvenor-cottages,"Grosvenor Cottages, London",-0.1557862,51.493926,route,geometric_center,"grosvenor cottages, belgravia, london sw1x, uk",51.4952772802915,51.4925793197085,-0.154432319708498,-0.157130280291502
+groom-place,"Groom Place, London",-0.150974,51.4993099,route,geometric_center,"groom pl, belgravia, london sw1x, uk",51.5006360302915,51.4979380697085,-0.149576619708498,-0.152274580291502
+great-cumberland-mews,"Great Cumberland Mews, London",-0.1606501,51.514879,route,geometric_center,"great cumberland mews, marylebone, london, uk",51.5162059302915,51.5135079697085,-0.159472919708498,-0.162170880291502
+grand-parade-mews,"Grand Parade Mews, London",-0.2118427,51.4599242,premise,rooftop,"grand parade mews, upper richmond rd, putney, london sw15 2sp, uk",51.4612664802915,51.4585685197085,-0.210482769708498,-0.213180730291502
+grafton-mews,"Grafton Mews, London",-0.1391285,51.5235701,route,geometric_center,"grafton mews, bloomsbury, london w1t, uk",51.5249399302915,51.5222419697085,-0.137903119708498,-0.140601080291502
+gower-mews,"Gower Mews, London",-0.1307541,51.5198064,route,geometric_center,"gower mews, bloomsbury, london, uk",51.5212122302915,51.5185142697085,-0.129301719708498,-0.131999680291502
+golborne-mews,"Golborne Mews, London",-0.2101828,51.5211841,route,geometric_center,"golborne mews, london w10, uk",51.5225575802915,51.5198596197085,-0.208807269708498,-0.211505230291502
+gloucester-place-mews,"Gloucester Place Mews, London",-0.158668,51.5182711,route,geometric_center,"gloucester place mews, marylebone, london w1h, uk",51.5192887802915,51.5165908197085,-0.157192569708498,-0.159890530291502
+gloucester-mews-westminster,"Gloucester Mews Westminster, London",-0.179174,51.5147174,route,geometric_center,"gloucester mews, paddington, london w2, uk",51.5160560302915,51.5133580697085,-0.177773669708498,-0.180471630291502
+gloucester-mews-wf,"Gloucester Mews Wf, London",-0.179174,51.5147174,route,geometric_center,"gloucester mews, paddington, london w2, uk",51.5160560302915,51.5133580697085,-0.177773669708498,-0.180471630291502
+gloucester-gate-mews,"Gloucester Gate Mews, London",-0.1469921,51.5349465,route,geometric_center,"gloucester gate mews, london nw1, uk",51.5360618802915,51.5333639197085,-0.145512219708498,-0.148210180291502
+glading-terrace,"Glading Terrace, London",-0.0738665,51.5575268,route,geometric_center,"glading terrace, clapton, london n16, uk",51.5590764302915,51.5563784697085,-0.072499569708498,-0.075197530291502
+gaspar-mews,"Gaspar Mews, London",-0.1873603,51.4942373,route,geometric_center,"gaspar mews, kensington, london sw5, uk",51.4955747802915,51.4928768197085,-0.186168019708498,-0.188865980291502
+gaspar-close,"Gaspar Close, London",-0.1868121,51.4943462,route,geometric_center,"gaspar cl, kensington, london sw7 4ds, uk",51.4956885302915,51.4929905697085,-0.185619969708498,-0.188317930291502
+garden-mews,"Garden Mews, London",-0.1710072,51.5131966,route,geometric_center,"hyde park gardens mews, tyburnia, london w2, uk",51.5145903802915,51.5118924197085,-0.1689049,-0.1723993
+fulton-mews,"Fulton Mews, London",-0.1851071,51.5125137,route,geometric_center,"fulton mews, bayswater, london w2, uk",51.5138298302915,51.5111318697085,-0.183462919708498,-0.186160880291502
+fullwoods-mews,"Fullwoods Mews, London",-0.085611,51.529817,route,geometric_center,"fullwood's mews, hoxton, london n1, uk",51.5311518802915,51.5284539197085,-0.084457369708498,-0.087155330291502
+frederick-close,"Frederick Close, London",-0.2094541,51.3659932,route,geometric_center,"frederick cl, sutton sm1, uk",51.3672018802915,51.3645039197085,-0.208007569708498,-0.210705530291502
+frederic-mews,"Frederic Mews, London",-0.1568849,51.5013259,route,geometric_center,"frederic mews, belgravia, london sw1x, uk",51.5026396802915,51.4999417197085,-0.155788419708498,-0.158486380291502
+foulden-terrace,"Foulden Terrace, London",-0.0740174,51.5563488,route,geometric_center,"foulden terrace, clapton, london n16, uk",51.5576586802915,51.5549607197085,-0.072588219708498,-0.075286180291502
+fosbury-mews,"Fosbury Mews, London",-0.1862037,51.5109333,route,geometric_center,"fosbury mews, bayswater, london w2, uk",51.5121645802915,51.5094666197085,-0.184808319708498,-0.187506280291502
+flowers-mews,"Flowers Mews, London",-0.1348147,51.5662904,route,geometric_center,"flowers mews, archway, london n19 3tb, uk",51.5676935802915,51.5649956197085,-0.133431919708498,-0.136129880291502
+filmer-mews,"Filmer Mews, London",-0.2080367,51.4784751,route,geometric_center,"filmer rd, fulham, london sw6, uk",51.4809959,51.4763946,-0.206850919708498,-0.209548880291502
+farnell-mews,"Farnell Mews, London",-0.191985,51.4899584,route,geometric_center,"farnell mews, earl's court, london sw5, uk",51.4912981302915,51.4886001697085,-0.190631969708498,-0.193329930291502
+farm-street,"Farm Street, London",-0.1484325,51.5094194,route,geometric_center,"farm st, mayfair, london, uk",51.5106779802915,51.5079800197085,-0.147032119708498,-0.149730080291502
+eton-garages,"Eton Garages, London",-0.1649388,51.5459868,route,geometric_center,"eton garages, belsize park, london nw3, uk",51.5470473802915,51.5443494197085,-0.163839119708498,-0.166537080291502
+ernshaw-place,"Ernshaw Place, London",-0.2119914,51.4591107,route,geometric_center,"ernshaw pl, putney, london sw15, uk",51.4604421302915,51.4577441697085,-0.210452969708498,-0.213150930291502
+epirus-mews,"Epirus Mews, London",-0.2001775,51.4818142,route,geometric_center,"epirus mews, fulham, london sw6, uk",51.4831770302915,51.4804790697085,-0.198996069708498,-0.201694030291502
+ensor-mews,"Ensor Mews, London",-0.1785275,51.4900724,route,geometric_center,"ensor mews, south kensington, london sw7, uk",51.4913404802915,51.4886425197085,-0.177109619708498,-0.179807580291502
+ennismore-mews,"Ennismore Mews, London",-0.1690632,51.4996567,route,geometric_center,"ennismore mews, knightsbridge, london sw7, uk",51.5009552802915,51.4982573197085,-0.168024919708498,-0.170722880291502
+ennismore-gardens-mews,"Ennismore Gardens Mews, London",-0.1715221,51.4991199,route,geometric_center,"ennismore gardens mews, knightsbridge, london sw7, uk",51.5006286802915,51.4979307197085,-0.169310719708498,-0.172008680291502
+elvaston-mews,"Elvaston Mews, London",-0.180386,51.4978872,route,geometric_center,"elvaston mews, south kensington, london sw7, uk",51.4992184802915,51.4965205197085,-0.179501519708498,-0.182199480291502
+elm-park-lane,"Elm Park Lane, London",-0.1777145,51.4867853,route,geometric_center,"elm park ln, chelsea, london, uk",51.4881342802915,51.4854363197085,-0.176536819708498,-0.179234780291502
+elizabeth-mews,"Elizabeth Mews, London",-0.162144,51.54634,route,geometric_center,"elizabeth mews, belsize park, london nw3, uk",51.5477090802915,51.5450111197085,-0.160736869708498,-0.163434830291502
+elgin-mews-south,"Elgin Mews South, London",-0.1852717,51.5297872,route,geometric_center,"elgin mews s, maida vale, london w9, uk",51.5311604802915,51.5284625197085,-0.183876619708498,-0.186574580291502
+egerton-gardens-mews,"Egerton Gardens Mews, London",-0.1670718,51.4972375,route,geometric_center,"egerton gardens mews, chelsea, london, uk",51.4984276302915,51.4957296697085,-0.166010569708498,-0.168708530291502
+eccleston-square-mews,"Eccleston Square Mews, London",-0.1429477,51.4918169,route,geometric_center,"eccleston square mews, pimlico, london sw1v, uk",51.4931127302915,51.4904147697085,-0.141406269708498,-0.144104230291502
+eccleston-mews,"Eccleston Mews, London",-0.1504346,51.4978924,route,geometric_center,"eccleston mews, belgravia, london sw1x, uk",51.4988498802915,51.4961519197085,-0.149772119708498,-0.152470080291502
+ebury-mews-east,"Ebury Mews East, London",-0.1486461,51.4952419,route,geometric_center,"ebury mews e, belgravia, london sw1w, uk",51.4966772802915,51.4939793197085,-0.147188219708498,-0.149886180291502
+ebury-mews,"Ebury Mews, London",-0.1498403,51.4943772,route,geometric_center,"ebury mews, belgravia, london sw1w, uk",51.4956903302915,51.4929923697085,-0.148509469708498,-0.151207430291502
+eaton-terrace-mews,"Eaton Terrace Mews, London",-0.1551907,51.4943496,route,geometric_center,"eaton terrace mews, belgravia, london sw1x, uk",51.4956832302915,51.4929852697085,-0.153889169708498,-0.156587130291502
+eaton-row,"Eaton Row, London",-0.1483436,51.4974451,route,geometric_center,"eaton row, belgravia, london sw1w, uk",51.4987713802915,51.4960734197085,-0.146946769708498,-0.149644730291502
+eaton-mews-west,"Eaton Mews West, London",-0.1527332,51.494013,route,geometric_center,"eaton mews w, belgravia, london sw1w, uk",51.4954404802915,51.4927425197085,-0.151269519708498,-0.153967480291502
+eaton-mews-south,"Eaton Mews South, London",-0.1499016,51.4957873,route,geometric_center,"eaton mews s, belgravia, london sw1w, uk",51.4971272302915,51.4944292697085,-0.148568119708498,-0.151266080291502
+eaton-mews-north,"Eaton Mews North, London",-0.1532703,51.496163,route,geometric_center,"eaton mews n, belgravia, london sw1x, uk",51.4974510302915,51.4947530697085,-0.1518984,-0.155013
+eastbourne-mews,"Eastbourne Mews, London",-0.1793394,51.516538,route,geometric_center,"eastbourne mews, paddington, london w2, uk",51.5179243302915,51.5152263697085,-0.178084619708498,-0.180782580291502
+early-mews,"Early Mews, London",-0.1443917,51.5397939,route,geometric_center,"early mews, camden town, london nw1, uk",51.5411586302915,51.5384606697085,-0.143101069708498,-0.145799030291502
+earls-walk,"Earls Walk, London",-0.1981323,51.4970705,route,geometric_center,"earls walk, kensington, london w8, uk",51.4983692802915,51.4956713197085,-0.196922169708498,-0.199620130291502
+durweston-court,"Durweston Court, London",-0.1596964,51.5200711,route,geometric_center,"durweston st, marylebone, london w1h, uk",51.5214433302915,51.5187453697085,-0.158491519708498,-0.161189480291502
+dunworth-mews,"Dunworth Mews, London",-0.2047566,51.5164478,route,geometric_center,"dunworth mews, notting hill, london w11, uk",51.5178008302915,51.5151028697085,-0.203616519708498,-0.206314480291502
+dunstable-mews,"Dunstable Mews, London",-0.1502718,51.5210077,route,geometric_center,"dunstable mews, marylebone, london w1u, uk",51.5223284802915,51.5196305197085,-0.148887769708498,-0.151585730291502
+dukes-yard,"Dukes Yard, London",-0.1514095,51.514348,route,geometric_center,"duke st, london, uk",51.5165517,51.5122828,-0.150185569708498,-0.152883530291502
+dukes-mews,"Dukes Mews, London",-0.151819,51.5161734,route,geometric_center,"duke's mews, marylebone, london, uk",51.5175315802915,51.5148336197085,-0.150579919708498,-0.153277880291502
+duchess-mews,"Duchess Mews, London",-0.1454885,51.5194545,route,geometric_center,"duchess mews, marylebone, london w1g, uk",51.5206814802915,51.5179835197085,-0.144052319708498,-0.146750280291502
+drayson-mews,"Drayson Mews, London",-0.1935369,51.5021422,route,geometric_center,"drayson mews, kensington, london w8, uk",51.5035707802915,51.5008728197085,-0.192222119708498,-0.194920080291502
+dove-mews,"Dove Mews, London",-0.1826626,51.4913261,route,geometric_center,"dove mews, south kensington, london sw5, uk",51.4926062802915,51.4899083197085,-0.181343319708498,-0.184041280291502
+doughty-mews,"Doughty Mews, London",-0.1170503,51.5230939,route,geometric_center,"doughty mews, holborn, london wc1n, uk",51.5245944302915,51.5218964697085,-0.115440619708498,-0.118138580291502
+dilke-street,"Dilke Street, London",-0.1602082,51.4846815,route,geometric_center,"dilke st, chelsea, london sw3, uk",51.4860298802915,51.4833319197085,-0.158886319708498,-0.161584280291502
+devonshire-row-mews,"Devonshire Row Mews, London",-0.1449978,51.5223765,route,geometric_center,"devonshire row mews, marylebone, london, uk",51.5238136302915,51.5211156697085,-0.143677819708498,-0.146375780291502
+devonshire-place-mews,"Devonshire Place Mews, London",-0.1505252,51.521646,route,geometric_center,"devonshire place mews, marylebone, london w1u, uk",51.5233033802915,51.5206054197085,-0.149490369708498,-0.152188330291502
+devonshire-mews-west,"Devonshire Mews West, London",-0.149127,51.5221456,route,geometric_center,"devonshire mews w, marylebone, london, uk",51.5235310802915,51.5208331197085,-0.147882869708498,-0.150580830291502
+devonshire-mews-south,"Devonshire Mews South, London",-0.1487159,51.5210165,route,geometric_center,"devonshire mews s, marylebone, london w1g, uk",51.5223407302915,51.5196427697085,-0.147370819708498,-0.150068780291502
+devonshire-mews-north,"Devonshire Mews North, London",-0.147487,51.5219708,route,geometric_center,"devonshire mews n, marylebone, london w1g, uk",51.5233074802915,51.5206095197085,-0.146157719708498,-0.148855680291502
+devonshire-close,"Devonshire Close, London",-0.1469507,51.5213906,route,geometric_center,"devonshire cl, marylebone, london w1g, uk",51.5227535802915,51.5200556197085,-0.145534169708498,-0.148232130291502
+denbigh-mews,"Denbigh Mews, London",-0.1399768,51.4916086,route,geometric_center,"denbigh mews, lillington and longmoore gardens, london sw1v, uk",51.4929929302915,51.4902949697085,-0.138616219708498,-0.141314180291502
+denbigh-close,"Denbigh Close, London",-0.2017039,51.5128119,route,geometric_center,"denbigh cl, notting hill, london w11, uk",51.5142540302915,51.5115560697085,-0.200140319708498,-0.202838280291502
+deans-mews,"Deans Mews, London",-0.1453911,51.5172919,route,geometric_center,"dean's mews, marylebone, london, uk",51.5186075802915,51.5159096197085,-0.144133419708498,-0.146831380291502
+de-vere-mews,"De Vere Mews, London",-0.1845792,51.4996404,establishment,rooftop,"20 canning pl, south kensington, london w8 5ad, uk",51.5009893802915,51.4982914197085,-0.183230219708498,-0.185928180291502
+davies-mews,"Davies Mews, London",-0.147736,51.513213,route,geometric_center,"davies mews, mayfair, london w1k, uk",51.5145182802915,51.5118203197085,-0.146639769708498,-0.149337730291502
+david-mews,"David Mews, London",-0.1564347,51.5214974,route,geometric_center,"david mews, marylebone, london w1u, uk",51.5227414302915,51.5200434697085,-0.155028069708498,-0.157726030291502
+daleham-mews,"Daleham Mews, London",-0.1732105,51.5489598,route,geometric_center,"daleham mews, london nw3, uk",51.5503223802915,51.5476244197085,-0.172215369708498,-0.174913330291502
+cumberland-terrace-mews,"Cumberland Terrace Mews, London",-0.1457103,51.5318858,route,geometric_center,"cumberland terrace mews, london nw1, uk",51.5333112802915,51.5306133197085,-0.144347869708498,-0.147045830291502
+culford-mews,"Culford Mews, London",-0.0823217,51.5459853,route,geometric_center,"culford mews, london n1, uk",51.5475043802915,51.5448064197085,-0.0808006,-0.0837428
+cross-keys-close,"Cross Keys Close, London",-0.1507655,51.5183683,route,geometric_center,"cross keys cl, marylebone, london w1u, uk",51.5196483302915,51.5169503697085,-0.149241269708498,-0.151939230291502
+cromwell-mews,"Cromwell Mews, London",-0.1750834,51.4945431,route,geometric_center,"cromwell mews, south kensington, london sw7, uk",51.4961064802915,51.4934085197085,-0.173897569708498,-0.176595530291502
+cresswell-place,"Cresswell Place, London",-0.1825036,51.4892977,route,geometric_center,"cresswell pl, kensington, london, uk",51.4906357302915,51.4879377697085,-0.181148769708498,-0.183846730291502
+craven-hill-mews,"Craven Hill Mews, London",-0.1805951,51.5137072,route,geometric_center,"craven hill mews, bayswater, london w2, uk",51.5149959802915,51.5122980197085,-0.179468369708498,-0.182166330291502
+cranley-mews,"Cranley Mews, London",-0.1799022,51.4901202,route,geometric_center,"cranley mews, south kensington, london, uk",51.4915839802915,51.4888860197085,-0.178306469708498,-0.181004430291502
+courtfield-mews,"Courtfield Mews, London",-0.1862201,51.4931275,route,geometric_center,"courtfield mews, kensington, london sw5, uk",51.4945193802915,51.4918214197085,-0.184942169708498,-0.187640130291502
+cornwall-mews-west,"Cornwall Mews West, London",-0.1889286,51.4971932,route,geometric_center,"cornwall mews w, kensington, london w8, uk",51.4985487302915,51.4958507697085,-0.187773969708498,-0.190471930291502
+cornwall-mews-south,"Cornwall Mews South, London",-0.1847476,51.4962564,route,geometric_center,"cornwall mews s, kensington, london sw7, uk",51.4975704302915,51.4948724697085,-0.183503819708498,-0.186201780291502
+cornwall-gardens-walk,"Cornwall Gardens Walk, London",-0.1890519,51.4967669,route,geometric_center,"cornwall gardens walk, kensington, london w8, uk",51.4980972802915,51.4953993197085,-0.187632969708498,-0.190330930291502
+connaught-close,"Connaught Close, London",-0.167434,51.5137407,route,geometric_center,"connaught cl, tyburnia, london w2, uk",51.5150875302915,51.5123895697085,-0.166134519708498,-0.168832480291502
+conduit-mews,"Conduit Mews, London",-0.1764766,51.5146201,route,geometric_center,"conduit mews, paddington, london w2, uk",51.5158342302915,51.5131362697085,-0.174668469708498,-0.177366430291502
+colville-mews,"Colville Mews, London",-0.2003267,51.5153907,route,geometric_center,"colville mews, notting hill, london w11, uk",51.5165140802915,51.5138161197085,-0.199213369708498,-0.201911330291502
+colonnade,"Colonnade, London",-0.1847285,51.524329,establishment,rooftop,"2 warrington cres, little venice, london w9 1er, uk",51.5256779802915,51.5229800197085,-0.183379519708498,-0.186077480291502
+coleherne-mews,"Coleherne Mews, London",-0.1906701,51.4876602,route,geometric_center,"coleherne mews, kensington, london, uk",51.4890216802915,51.4863237197085,-0.189455819708498,-0.192153780291502
+colbeck-mews,"Colbeck Mews, London",-0.1865732,51.4927677,route,geometric_center,"colbeck mews, kensington, london, uk",51.4940365802915,51.4913386197085,-0.185260869708498,-0.187958830291502
+codrington-mews,"Codrington Mews, London",-0.20719,51.5151385,route,geometric_center,"codrington mews, notting hill, london w11, uk",51.5164408302915,51.5137428697085,-0.205929619708498,-0.208627580291502
+cochrane-mews,"Cochrane Mews, London",-0.1713618,51.5334065,route,geometric_center,"cochrane mews, st john's wood, london nw8, uk",51.5347549802915,51.5320570197085,-0.170115919708498,-0.172813880291502
+clover-mews,"Clover Mews, London",-0.1610961,51.4849793,route,geometric_center,"clover mews, chelsea, london sw3, uk",51.4861521802915,51.4834542197085,-0.159553169708498,-0.162251130291502
+clenston-mews,"Clenston Mews, London",-0.1610848,51.5159206,route,geometric_center,"clenston mews, marylebone, london w1h, uk",51.5172728802915,51.5145749197085,-0.159827219708498,-0.162525180291502
+clarkes-mews,"Clarkes Mews, London",-0.1500422,51.5205052,route,geometric_center,"clarkes mews, marylebone, london w1u, uk",51.5218256802915,51.5191277197085,-0.148775869708498,-0.151473830291502
+clarges-mews,"Clarges Mews, London",-0.1463645,51.5076804,route,geometric_center,"clarges mews, mayfair, london w1j, uk",51.5091207302915,51.5064227697085,-0.144819119708498,-0.147517080291502
+clarendon-close,"Clarendon Close, London",-0.1684594,51.5130921,route,geometric_center,"clarendon cl, tyburnia, london w2, uk",51.5144288302915,51.5117308697085,-0.167347919708498,-0.170045880291502
+clabon-mews,"Clabon Mews, London",-0.1618947,51.4951444,route,geometric_center,"clabon mews, chelsea, london, uk",51.4965369302915,51.4938389697085,-0.160463019708498,-0.163160980291502
+chippenham-mews,"Chippenham Mews, London",-0.1961574,51.5236488,route,geometric_center,"chippenham mews, london w9, uk",51.5249819302915,51.5222839697085,-0.1947305,-0.1975873
+chilworth-mews,"Chilworth Mews, London",-0.1776661,51.5153675,route,geometric_center,"chilworth mews, paddington, london w2, uk",51.5167153302915,51.5140173697085,-0.176307719708498,-0.179005680291502
+cheyne-mews,"Cheyne Mews, London",-0.1666522,51.4838226,route,geometric_center,"cheyne mews, chelsea, london sw3, uk",51.4852820802915,51.4825841197085,-0.165357519708498,-0.168055480291502
+cheval-place,"Cheval Place, London",-0.1668493,51.4986552,route,geometric_center,"cheval pl, knightsbridge, london, uk",51.4998960802915,51.4971981197085,-0.165537419708498,-0.168235380291502
+chester-square-mews,"Chester Square Mews, London",-0.1483954,51.4963462,route,geometric_center,"chester square mews, belgravia, london sw1w, uk",51.4975604302915,51.4948624697085,-0.146837019708498,-0.149534980291502
+chesham-mews,"Chesham Mews, London",-0.1554969,51.49797,route,geometric_center,"chesham mews, belgravia, london sw1x, uk",51.4994187802915,51.4967208197085,-0.154159919708498,-0.156857880291502
+charlotte-mews,"Charlotte Mews, London",-0.1362675,51.5206727,route,geometric_center,"charlotte mews, bloomsbury, london w1t, uk",51.5219862802915,51.5192883197085,-0.134866319708498,-0.137564280291502
+charles-lane,"Charles Lane, London",-0.170214,51.5338949,route,geometric_center,"charles ln, st john's wood, london nw8, uk",51.5355380302915,51.5328400697085,-0.168418919708498,-0.171116880291502
+chapel-side,"Chapel Side, London",-0.1915872,51.5117423,route,geometric_center,"chapel side, bayswater, london w2, uk",51.5129976302915,51.5102996697085,-0.190240469708498,-0.192938430291502
+chagford-street,"Chagford Street, London",-0.1599266,51.5238626,route,geometric_center,"chagford st, marylebone, london nw1, uk",51.5250367802915,51.5223388197085,-0.158512819708498,-0.161210780291502
+cedars-mews,"Cedars Mews, London",-0.1484151,51.4623213,route,geometric_center,"cedars mews, clapham town, london sw4, uk",51.4636369302915,51.4609389697085,-0.147459669708498,-0.150157630291502
+cavendish-mews-south,"Cavendish Mews South, London",-0.1434628,51.5197012,route,geometric_center,"cavendish mews s, marylebone, london, uk",51.5209919802915,51.5182940197085,-0.142112169708498,-0.144810130291502
+cavendish-mews-north,"Cavendish Mews North, London",-0.1437567,51.5202988,route,geometric_center,"cavendish mews n, marylebone, london, uk",51.5215662302915,51.5188682697085,-0.142517769708498,-0.145215730291502
+caroline-place-mews,"Caroline Place Mews, London",-0.1885195,51.5110587,route,geometric_center,"caroline place mews, bayswater, london w2, uk",51.5123253802915,51.5096274197085,-0.187062469708498,-0.189760430291502
+canning-place-mews,"Canning Place Mews, London",-0.1842954,51.499849,route,geometric_center,"canning place mews, south kensington, london w8, uk",51.5010697302915,51.4983717697085,-0.182940819708498,-0.185638780291502
+camden-mews,"Camden Mews, London",-0.1317219,51.5461276,route,geometric_center,"camden mews, london nw1, uk",51.5491139,51.5435181,-0.1278839,-0.1352279
+cambridge-gate-mews,"Cambridge Gate Mews, London",-0.1444805,51.5264888,route,geometric_center,"cambridge gate mews, london nw1, uk",51.5278081302915,51.5251101697085,-0.143216419708498,-0.145914380291502
+cadogan-lane,"Cadogan Lane, London",-0.1566574,51.4962015,route,geometric_center,"cadogan ln, belgravia, london sw1x, uk",51.4978221,51.4947022,-0.155415169708498,-0.158113130291502
+burton-mews,"Burton Mews, London",-0.1513047,51.4929908,route,geometric_center,"burton mews, belgravia, london sw1w, uk",51.4943542302915,51.4916562697085,-0.150000619708498,-0.152698580291502
+burma-mews,"Burma Mews, London",-0.0879582,51.5558669,route,geometric_center,"burma rd, stoke newington, london, uk",51.5572789302915,51.5545809697085,-0.086974369708498,-0.0896723302915021
+buckingham-mews,"Buckingham Mews, London",-0.1413727,51.499566,route,geometric_center,"buckingham mews, westminster, london, uk",51.5008354802915,51.4981375197085,-0.139851119708498,-0.142549080291502
+bryanston-mews-west,"Bryanston Mews West, London",-0.1619628,51.5176521,route,geometric_center,"bryanston mews w, marylebone, london w1h, uk",51.5187914802915,51.5160935197085,-0.160511419708498,-0.163209380291502
+bryanston-mews-east,"Bryanston Mews East, London",-0.1601625,51.518294,route,geometric_center,"bryanston mews e, marylebone, london w1h, uk",51.5196972302915,51.5169992697085,-0.158850019708498,-0.161547980291502
+bruton-place,"Bruton Place, London",-0.1451522,51.5109183,route,geometric_center,"bruton pl, mayfair, london, uk",51.5122838302915,51.5095858697085,-0.143594269708498,-0.146292230291502
+brunswick-mews,"Brunswick Mews, London",-0.1595827,51.515936,route,geometric_center,"brunswick mews, marylebone, london w1h, uk",51.5172750802915,51.5145771197085,-0.158244169708498,-0.160942130291502
+brownlow-mews,"Brownlow Mews, London",-0.1156538,51.523591,route,geometric_center,"brownlow mews, holborn, london wc1n, uk",51.5249242802915,51.5222263197085,-0.114247069708498,-0.116945030291502
+browning-mews,"Browning Mews, London",-0.1493491,51.5191491,route,geometric_center,"browning mews, marylebone, london w1g, uk",51.5205328302915,51.5178348697085,-0.148050719708498,-0.150748680291502
+brooks-mews,"Brooks Mews, London",-0.1467884,51.5123902,route,geometric_center,"brook's mews, mayfair, london w1k, uk",51.5137138802915,51.5110159197085,-0.145578519708498,-0.148276480291502
+brook-mews-north,"Brook Mews North, London",-0.1782544,51.5131514,route,geometric_center,"brook mews n, bayswater, london w2, uk",51.5143321302915,51.5116341697085,-0.176982119708498,-0.179680080291502
+brondesbury-mews,"Brondesbury Mews, London",-0.1983916,51.5415284,premise,rooftop,"brondesbury mews, willesden ln, north maida vale, london nw6 7ra, uk",51.5428671302915,51.5401691697085,-0.197040019708498,-0.199737980291502
+broadstone-place,"Broadstone Place, London",-0.1552997,51.5187577,route,geometric_center,"broadstone pl, marylebone, london w1u, uk",51.5202376302915,51.5175396697085,-0.153979569708498,-0.156677530291502
+bourdon-street,"Bourdon Street, London",-0.1457198,51.5110287,route,geometric_center,"bourdon st, mayfair, london w1k, uk",51.5127547302915,51.5100567697085,-0.1446242,-0.1473788
+botts-mews,"Botts Mews, London",-0.1948455,51.5154922,route,geometric_center,"bott's mews, london, uk",51.5168523302915,51.5141543697085,-0.193490219708498,-0.196188180291502
+boston-place,"Boston Place, London",-0.1629333,51.5240204,route,geometric_center,"boston pl, marylebone, london nw1, uk",51.5250845,51.522288,-0.161410369708498,-0.164108330291502
+boscobel-place,"Boscobel Place, London",-0.1516679,51.4946529,route,geometric_center,"boscobel pl, belgravia, london sw1w, uk",51.4959754302915,51.4932774697085,-0.150307969708498,-0.153005930291502
+bolton-gardens-mews,"Bolton Gardens Mews, London",-0.1864304,51.489301,route,geometric_center,"bolton gardens mews, kensington, london sw5, uk",51.4906297802915,51.4879318197085,-0.185054819708498,-0.187752780291502
+blackstock-mews,"Blackstock Mews, London",-0.1007529,51.5621342,route,geometric_center,"blackstock mews, finsbury park, london n4, uk",51.5634741302915,51.5607761697085,-0.099399019708498,-0.102096980291502
+berkeley-mews,"Berkeley Mews, London",-0.15757,51.5153899,route,geometric_center,"berkeley mews, marylebone, london w1h, uk",51.5167438802915,51.5140459197085,-0.156303219708498,-0.159001180291502
+bentinck-mews,"Bentinck Mews, London",-0.1502162,51.517473,route,geometric_center,"bentinck mews, marylebone, london w1u, uk",51.5188273802915,51.5161294197085,-0.148937969708498,-0.151635930291502
+bendall-mews,"Bendall Mews, London",-0.1655301,51.5218904,route,geometric_center,"bendall mews, marylebone, london nw1, uk",51.5231499802915,51.5204520197085,-0.164135319708498,-0.166833280291502
+belsize-court-garages,"Belsize Court Garages, London",-0.1709004,51.5500659,premise,rooftop,"belsize court garages, belsize ln, belsize park, london nw3 5aj, uk",51.5514174802915,51.5487195197085,-0.169531219708498,-0.172229180291502
+bellevue-mews,"Bellevue Mews, London",-0.1487975,51.6150429,route,geometric_center,"bellevue mews, friern barnet, london n11, uk",51.6163438302915,51.6136458697085,-0.147705769708498,-0.150403730291502
+belgrave-mews-west,"Belgrave Mews West, London",-0.1550244,51.4979858,route,geometric_center,"belgrave mews w, belgravia, london sw1x, uk",51.4995013302915,51.4968033697085,-0.153864219708498,-0.156562180291502
+belgrave-mews-south,"Belgrave Mews South, London",-0.1513923,51.4985076,route,geometric_center,"belgrave mews s, belgravia, london sw1x, uk",51.4994645802915,51.4967666197085,-0.150693719708498,-0.153391680291502
+belgrave-mews-north,"Belgrave Mews North, London",-0.1554306,51.50004,route,geometric_center,"belgrave mews n, belgravia, london sw1x, uk",51.5015542802915,51.4988563197085,-0.153875619708498,-0.156573580291502
+beaumont-mews,"Beaumont Mews, London",-0.1509876,51.5204214,route,geometric_center,"beaumont mews, marylebone, london w1u, uk",51.5218037802915,51.5191058197085,-0.149987969708498,-0.152685930291502
+baynes-mews,"Baynes Mews, London",-0.1724823,51.5487421,route,geometric_center,"baynes mews, belsize park, london nw3, uk",51.5501592302915,51.5474612697085,-0.171281819708498,-0.173979780291502
+bayham-place,"Bayham Place, London",-0.1374384,51.5351712,route,geometric_center,"bayham pl, london nw1, uk",51.5366892802915,51.5339913197085,-0.136179919708498,-0.138877880291502
+batley-place,"Batley Place, London",-0.0737338,51.5587573,route,geometric_center,"batley pl, clapton, london n16, uk",51.5601243802915,51.5574264197085,-0.072364969708498,-0.075062930291502
+bathurst-mews,"Bathurst Mews, London",-0.1740329,51.5136969,route,geometric_center,"bathurst mews, tyburnia, london w2, uk",51.5150376802915,51.5123397197085,-0.172524869708498,-0.175222830291502
+barnaby-place,"Barnaby Place, London",-0.1760207,51.4927638,route,geometric_center,"barnaby pl, south kensington, london sw7, uk",51.4941351302915,51.4914371697085,-0.174646069708498,-0.177344030291502
+barb-mews,"Barb Mews, London",-0.2231953,51.4976797,route,geometric_center,"barb mews, hammersmith, london w6, uk",51.4990434802915,51.4963455197085,-0.221580319708498,-0.224278280291502
+balfour-mews,"Balfour Mews, London",-0.1523073,51.5088286,route,geometric_center,"balfour mews, mayfair, london w1k, uk",51.5098933302915,51.5071953697085,-0.150819869708498,-0.153517830291502
+bakers-mews,"Bakers Mews, London",-0.1543004,51.5167017,route,geometric_center,"baker's mews, marylebone, london, uk",51.5181038302915,51.5154058697085,-0.152773369708498,-0.155471330291502
+avenue-mews,"Avenue Mews, London",-0.143611,51.5908104,route,geometric_center,"ave mews, muswell hill, london n10, uk",51.5921613802915,51.5894634197085,-0.142259569708498,-0.144957530291502
+atherstone-mews,"Atherstone Mews, London",-0.1816821,51.4955752,route,geometric_center,"atherstone mews, south kensington, london sw7, uk",51.4967129302915,51.4940149697085,-0.180362519708498,-0.183060480291502
+astwood-mews,"Astwood Mews, London",-0.1862602,51.493841,route,geometric_center,"astwood mews, kensington, london sw5, uk",51.4952276802915,51.4925297197085,-0.184947669708498,-0.187645630291502
+archery-close,"Archery Close, London",-0.1648634,51.51451,route,geometric_center,"archery cl, st george's fields, london w2, uk",51.5156049302915,51.5129069697085,-0.163332169708498,-0.166030130291502
+albion-mews,"Albion Mews, London",-0.1661965,51.5133584,route,geometric_center,"albion mews, st george's fields, london w2, uk",51.5147198802915,51.5120219197085,-0.165079469708498,-0.167777430291502
+albion-close,"Albion Close, London",-0.1672033,51.5131942,route,geometric_center,"albion cl, tyburnia, london w2, uk",51.5145541802915,51.5118562197085,-0.165659719708498,-0.168357680291502
+albert-terrace-mews,"Albert Terrace Mews, London",-0.1539968,51.5378688,route,geometric_center,"albert terrace mews, camden town, london nw1, uk",51.5394213302915,51.5367233697085,-0.152338169708498,-0.155036130291502
+albert-mews,"Albert Mews, London",-0.0357562,51.5096941,route,geometric_center,"albert mews, poplar, london, uk",51.5111463302915,51.5084483697085,-0.034397919708498,-0.037095880291502
+albany-mews,"Albany Mews, London",-0.1083012,51.5433808,route,geometric_center,"albany mews, london n1 1ld, uk",51.5447203302915,51.5420223697085,-0.107042219708498,-0.109740180291502
+addison-place,"Addison Place, London",-0.2130437,51.5063003,route,geometric_center,"addison pl, notting hill, london w11, uk",51.5078272302915,51.5051292697085,-0.211617919708498,-0.214315880291502
+adams-row,"Adams Row, London",-0.1505145,51.5102823,route,geometric_center,"adam's row, mayfair, london w1k, uk",51.5115787302915,51.5088807697085,-0.149415969708498,-0.152113930291502
+adam-and-eve-mews,"Adam And Eve Mews, London",-0.1943963,51.4993742,route,geometric_center,"adam and eve mews, kensington, london w8, uk",51.5005108802915,51.4978129197085,-0.193313269708498,-0.196011230291502
+abercorn-close,"Abercorn Close, London",-0.1812421,51.5317006,route,geometric_center,"abercorn cl, st john's wood, london nw8, uk",51.5330562302915,51.5303582697085,-0.179884619708498,-0.182582580291502

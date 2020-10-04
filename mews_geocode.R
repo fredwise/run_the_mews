@@ -9,18 +9,18 @@ mews_lookup_postcode <- function(x) {
   try({
     y <- as.data.table(postcode_lookup(x))
     y <-
-      y[, .(postcode, longitude, latitude)]
+      y[, .(longitude, latitude)]
     return(y)
   })
 }
 
 # Look up latitude and longitude
-location_detail <- lapply(listings_locations$postcode,
+listings_latlon <- lapply(listings_locations$postcode,
                           mews_lookup_postcode)
 
 # List errors
 listings_locations$postcode[
-  sapply(location_detail, class) == 'try-error']
+  sapply(listings_latlon, class) == 'try-error']
 #"Westminster" "W9 3NY"      "W1T 4AA"     NA            "WC1N 3EH"    "N16 7 UT"    "W1G 9EE"
 
 ##MANUAL CLEAN
@@ -33,14 +33,18 @@ listings_locations[postcode == "WC1N 3EH", postcode:='WC1N 3EN']
 listings_locations[postcode == "N16 7 UT", postcode:='N16 7UT']
 listings_locations[postcode == "W1G 9EE", postcode:='W1G 9EF']
 
-location_detail <- lapply(listings_locations$postcode,
+listings_latlon <- lapply(listings_locations$postcode,
                           mews_lookup_postcode)
 
 ## Check for errors, 
 #listings_locations$postcode[
-#sapply(location_detail, class) == 'try-error']
+#sapply(listings_latlon, class) == 'try-error']
 ## NONE!
 
+listings_latlon <- rbindlist(listings_latlon)
+
+listings_locations <- cbind(listings_locations,
+                            listings_latlon)
 
 
 

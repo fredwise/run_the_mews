@@ -1,9 +1,13 @@
 library(sf)
 library(mapview)
-# Convert mews location data to sf object
-`Mews Locations` <- st_as_sf(x = listings_locations, 
-                        coords = c("longitude", "latitude"),
-                        crs = 4326)
 
-# interactive map:
-mapview(`Mews Locations`, zcol = 'area', label = c('name', 'street','postcode')
+listings_locations_sf <- st_as_sf(
+  #mews location data to sf object
+  x = listings_locations,
+  coords = c("longitude", "latitude"),
+  crs = 4326
+)
+
+map <- leaflet::leaflet() %>%
+  leaflet::addProviderTiles(leaflet::providers$CartoDB.Positron) %>%
+  leaflet::addCircles(data = listings_locations_sf)

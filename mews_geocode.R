@@ -1,6 +1,5 @@
 # Get location data from mwes postcodes and route map
 
-
 #source(mews_postcodes.R)
 library(PostcodesioR)
 
@@ -45,7 +44,8 @@ listings_latlon <- rbindlist(listings_latlon)
 
 listings_locations <- cbind(listings_locations,
                             listings_latlon)
+listings_locations[,listing_id:=.I]
+setkey(listings_locations,listing_id)
 
-
-
-
+# Clean up environment
+rm(list=setdiff(ls(), "listings_locations"))

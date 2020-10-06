@@ -12,7 +12,7 @@ num_routes <- max(route_id)
 listings_locations[, route_id := route_id]
 
 #Graphopper key
-gh_key <- 'f8e5d7c0-3712-46f8-874b-ef6fc6d94d4a'
+gh_key <- 'xxxxxxxxxxxx' # your key here
 gh_url <- 'https://graphhopper.com/api/1/route?key='
 gh_url <- paste0(gh_url, gh_key)
 
